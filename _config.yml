@@ -1,11 +1,11 @@
 # Site settings
 author: Serafina Gomes
-title: 
+title: Serafina's Data Science Blog
 header-img: img/home-bg.png
 email: jpgomes271@gmail.com
 copyright_name: Serafina Gomes
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Making sense of it all
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  SouloftheSword271
